@@ -1,0 +1,11 @@
+# Green-and-white theme. Streamlit reads this file automatically
+# when you run the app from the project folder.
+[theme]
+base = "light"
+primaryColor = "#2E8B57"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#E8F5EC"
+textColor = "#1B2B21"
+
+[browser]
+gatherUsageStats = false

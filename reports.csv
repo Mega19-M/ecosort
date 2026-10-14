@@ -1,0 +1,38 @@
+report_id,date,location,category,description,priority,status,reporter,source
+ECO-0001,2026-08-15,Hostel Block A,Overflowing Bin,Bins on the ground floor corridor overflow every evening after dinner.,Medium,Resolved,Aarav,Demo
+ECO-0002,2026-08-17,Main Canteen,Poor Segregation,Wet food waste and plastic wrappers are thrown into the same bin.,High,Resolved,Meera,Demo
+ECO-0003,2026-08-19,Library Lane,Littering,Paper cups and snack packets left on the benches near the reading garden.,Low,Resolved,Karthik,Demo
+ECO-0004,2026-08-21,Ward 5 Market Road,Missed Collection,Garbage truck did not arrive for three days in a row.,High,Resolved,Divya,Demo
+ECO-0005,2026-08-23,Engineering Block,Hazardous Waste,Broken tube lights stacked next to the dustbin outside the lab.,High,Resolved,Rahul,Demo
+ECO-0006,2026-08-24,Sports Complex,Damaged Bin,Green bin near the basketball court has a broken lid and attracts flies.,Medium,Resolved,Sneha,Demo
+ECO-0007,2026-08-26,Parking Area 2,Illegal Dumping,Construction rubble dumped behind the parking area overnight.,High,Resolved,Priya,Demo
+ECO-0008,2026-08-28,Hostel Block B,Overflowing Bin,Blue recycling bin is full and plastic bottles are piling up beside it.,Medium,Resolved,Vikram,Demo
+ECO-0009,2026-08-30,Central Bus Stop,Littering,Food wrappers and tea cups scattered around the bus shelter.,Low,Resolved,Anjali,Demo
+ECO-0010,2026-09-01,Admin Block,Poor Segregation,Paper waste mixed with leftover lunch in the staff room bin.,Medium,Resolved,Arjun,Demo
+ECO-0011,2026-09-03,Lakeside Walkway,Illegal Dumping,Household garbage bags thrown near the lake fence.,High,Reviewed,Nisha,Demo
+ECO-0012,2026-09-04,Green Park Colony,Missed Collection,Dry waste pickup skipped on Tuesday and Thursday.,Medium,Resolved,Ravi,Demo
+ECO-0013,2026-09-06,Main Canteen,Overflowing Bin,Canteen exit bin overflows during the lunch rush.,High,Resolved,Meera,Demo
+ECO-0014,2026-09-08,Botanical Garden Gate,Littering,Plastic bottles left on the grass after the weekend event.,Low,Resolved,Karthik,Demo
+ECO-0015,2026-09-10,Engineering Block,Hazardous Waste,Used printer cartridges and batteries put in the general waste bin.,High,Reviewed,Divya,Demo
+ECO-0016,2026-09-12,Hostel Block A,Poor Segregation,Residents are not using the separate dry and wet waste bins.,Medium,Reviewed,Aarav,Demo
+ECO-0017,2026-09-14,Library Lane,Damaged Bin,Bin handle is broken and the bin keeps tipping over in wind.,Low,Resolved,Sneha,Demo
+ECO-0018,2026-09-16,Ward 5 Market Road,Illegal Dumping,Vegetable market waste dumped on the roadside after closing time.,High,Reviewed,Rahul,Demo
+ECO-0019,2026-09-18,Sports Complex,Overflowing Bin,Bins near the cricket pavilion not emptied after the match.,Medium,Resolved,Vikram,Demo
+ECO-0020,2026-09-20,Parking Area 2,Littering,Cigarette packets and plastic covers near the security cabin.,Low,Reviewed,Priya,Demo
+ECO-0021,2026-09-22,Admin Block,Missed Collection,Corridor bins were not collected over the long weekend.,Medium,Reviewed,Anjali,Demo
+ECO-0022,2026-09-24,Central Bus Stop,Overflowing Bin,The only bin at the stop is full and garbage spills onto the road.,High,Reviewed,Arjun,Demo
+ECO-0023,2026-09-26,Green Park Colony,Poor Segregation,Biodegradable and plastic waste put in one bag by several households.,Medium,Reviewed,Nisha,Demo
+ECO-0024,2026-09-28,Hostel Block B,Hazardous Waste,Expired medicines thrown into the common dustbin.,High,Pending,Ravi,Demo
+ECO-0025,2026-09-29,Lakeside Walkway,Damaged Bin,Two bins along the walkway are cracked and leaking.,Medium,Pending,Meera,Demo
+ECO-0026,2026-10-01,Main Canteen,Poor Segregation,Oil-soaked paper plates mixed with dry recyclable waste.,Medium,Reviewed,Karthik,Demo
+ECO-0027,2026-10-02,Botanical Garden Gate,Illegal Dumping,Old furniture and mattress dumped near the gate.,High,Pending,Divya,Demo
+ECO-0028,2026-10-03,Library Lane,Overflowing Bin,Bin next to the vending machine overflows by afternoon.,Medium,Pending,Aarav,Demo
+ECO-0029,2026-10-04,Engineering Block,Littering,Leftover project material and wrappers around the workshop entrance.,Low,Reviewed,Rahul,Demo
+ECO-0030,2026-10-05,Ward 5 Market Road,Missed Collection,Collection truck missed the morning round again this week.,High,Pending,Sneha,Demo
+ECO-0031,2026-10-06,Hostel Block A,Overflowing Bin,Third floor bin has not been emptied for two days.,High,Pending,Priya,Demo
+ECO-0032,2026-10-07,Sports Complex,Poor Segregation,Energy drink cans and food waste thrown into the paper bin.,Low,Pending,Vikram,Demo
+ECO-0033,2026-10-08,Parking Area 2,Damaged Bin,Metal bin near the entrance gate is rusted through at the bottom.,Medium,Pending,Anjali,Demo
+ECO-0034,2026-10-09,Central Bus Stop,Littering,Plastic bags blowing around the stop after market day.,Medium,Pending,Arjun,Demo
+ECO-0035,2026-10-10,Admin Block,Hazardous Waste,Old electronic items left beside the office dustbin.,High,Pending,Nisha,Demo
+ECO-0036,2026-10-11,Green Park Colony,Illegal Dumping,Garden waste and plastic dumped in the empty plot near the park.,Medium,Pending,Ravi,Demo
+ECO-0037,2026-10-12,Main Canteen,Overflowing Bin,Dustbins at the canteen entrance are overflowing again.,High,Pending,Meera,Demo
